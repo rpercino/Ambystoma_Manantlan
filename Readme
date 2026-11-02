@@ -1,1 +1,17 @@
-This is a repository of GBS data of Ambystoma salamanders from Manantlan
+#This is a repository of GBS data of Ambystoma salamanders from Manantlan
+Here is the VCF file of GBS data.
+
+ID of the samples:
+
+ID	Sample
+19R1	LaLupe_1_19R1
+19R2	LaLupe_2_19R2
+19R3	ElGuizar_1_19R3
+19R4	ElGuizar_2_19R4
+19R5	Neverias_1_19R5
+19R6	Neverias_2_19R6
+19R7	SQuila_1_19R7
+19R8	SQuila_2_19R8
+19R9	SCacoma_1_19R9
+19R10	SCacoma_2_19R10
+19R11	A_velasci_19R11
